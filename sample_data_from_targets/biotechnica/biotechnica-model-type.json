@@ -1,0 +1,13 @@
+{
+    "messageId": 1,
+    "biotechnicaServer": "us-east-1",
+    "netwatchMonitored": false,
+    "system": {
+        "accessKey": "8e31e0671dfeaf631626d2eae6e0d18f1f32872f",
+        "isAuthenticated": "true",
+        "isEncrypted": "false",
+        "TTL": 60,
+        "model": "unknown"
+    }
+}
+    

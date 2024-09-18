@@ -1,0 +1,14 @@
+{
+    "messageId": 1,
+    "localRegion": "northern-europe",
+    "netwatchMonitored": false,
+    "connection": {
+        "accessKey": "e617617718e1704b0d40a423c2f2906e5632d621",
+        "isAuthenticated": "true",
+        "isEncrypted": "false",
+        "TTL": 6,
+        "model": "unknown",
+        "message": "successful connection"
+    }
+    
+}
